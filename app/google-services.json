@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038969137054",
+    "project_id": "moodset-a9e7d",
+    "storage_bucket": "moodset-a9e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038969137054:android:393f77345cb564d4f1d88f",
+        "android_client_info": {
+          "package_name": "com.example.moodset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038969137054-8b835ancc1rk4bio74t85kt5sa5q54sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6o0w4bZih9Uzabhhh8l2f1O19kZH-Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038969137054-8b835ancc1rk4bio74t85kt5sa5q54sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/cl"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvRvMood"
+        android:layout_width="47dp"
+        android:layout_height="wrap_content"
+        android:text="😁"
+
+        android:textSize="30sp"
+        >
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvRvTime"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:text="1:03"
+
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="112dp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvRvDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1:03"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="25sp">
+
+    </TextView>
+    <TextView
+        android:id="@+id/tvRvReason"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1:03"
+        android:textColor="@color/black"
+
+        android:textSize="23sp">
+
+    </TextView>
+
+
+
+
+
+
+
+
+
+</LinearLayout>
